@@ -1,2 +1,3 @@
 # WaypointPractice
-WaypointPractice task 2 
+WaypointPractice task 
+Tugas Kecerdasan Buatan 
